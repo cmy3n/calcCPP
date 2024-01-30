@@ -1,0 +1,3 @@
+﻿  calculatorCPP.cpp
+D:\С++\calculatorCPP\calculatorCPP\calculatorCPP.cpp(109,30): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+  calculatorCPP.vcxproj -> D:\С++\calculatorCPP\x64\Debug\calculatorCPP.exe
